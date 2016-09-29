@@ -1,7 +1,7 @@
 # Bootstrap Responsive Design Guide
 Options for structuring your web pages, including global styles, required scaffolding, grid system
 
-## 1.Definition
+## Definition
 -Design software: Adobe Photoshop, Adobe Illustrator 
 -Design document unit: pixel
 -Color mode: RGB
